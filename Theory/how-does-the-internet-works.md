@@ -36,3 +36,6 @@ The Internet isn't just for retrieving information. You can also send data packe
 
 In essence, the Internet is a vast network of interconnected devices and infrastructure that allows information to be broken into pieces, sent across the world, and reassembled at its destination. It's this ability to connect, share, and communicate globally that makes the Internet so powerful and integral to our modern lives.
 
+---
+this theory file has been reviewed by Jérôme
+
