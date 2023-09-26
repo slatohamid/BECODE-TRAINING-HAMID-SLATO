@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate web dewelope who loves to explore the world and the world of technology and coding. My journey in the tech world is a mix of curiosity, creativity, and a dash of caffeine. 😄
+I'm a passionate web Developer  who loves to explore the world and the world of technology and coding. My journey in the tech world is a mix of curiosity, creativity, and a dash of caffeine. 😄
 
 ## 💖 Things I Love
 
